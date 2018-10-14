@@ -26,11 +26,13 @@ body {
 	float: left;
 	font-size: 20px;
 	font-weight: bold;
+	padding: 25px;
 }
 #header-nav {
 	display:block;
 	float:right;
 	margin-top: 0;
+	padding: 25px;
 }
 #header-nav li {
 	display:inline;
@@ -42,12 +44,13 @@ body {
 }
 #footer {
 	background-color: #012035;
-	padding: 50px 0;
+	padding: 25px 0;
 }
 #footer h4 {
 	color: white;
 	text-transform: uppercase;
 	letter-spacing: 0.1em;
+	padding: 25px;
 }
 #footer p {
 	color: white;
