@@ -10,6 +10,7 @@ body {
 	background-color: #012035;
 	height: 150px;
 	line-height: 150px;
+	padding: 25px;
 }
 #header a {
 	color:white;
