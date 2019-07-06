@@ -10,7 +10,6 @@ body {
 	background-color: #012035;
 	height: 150px;
 	line-height: 150px;
-	padding: 25px;
 }
 #header a {
 	color:white;
@@ -26,18 +25,15 @@ body {
 	float: left;
 	font-size: 20px;
 	font-weight: bold;
-	padding: 25px;
 }
 #header-nav {
 	display:block;
 	float:right;
 	margin-top: 0;
-	padding: 25px;
 }
 #header-nav li {
 	display:inline;
 	padding-left: 20px;
-	padding-right: 25px;
 }
 .container {
 	max-width: 1000px;
@@ -45,23 +41,20 @@ body {
 }
 #footer {
 	background-color: #012035;
-	padding: 25px 0;
+	padding: 50px 0;
 }
 #footer h4 {
 	color: white;
 	text-transform: uppercase;
 	letter-spacing: 0.1em;
-	padding: 25px;
 }
 #footer p {
 	color: white;
-	padding: 25px;
 }
 .column {
 	min-width: 300px;
 	display: inline-block;
 	vertical-align: top;
-	padding 25px;
 }
 a {
 	color: white;
